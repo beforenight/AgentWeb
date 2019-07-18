@@ -113,7 +113,7 @@ public class BaseWebActivity extends AppCompatActivity {
     };
 
     public String getUrl() {
-        return "https://m.jd.com/";
+        return "https://www.yuque.com/docs/share/52fb96c1-02cd-47c7-9839-eed518f07765";
     }
 
 
